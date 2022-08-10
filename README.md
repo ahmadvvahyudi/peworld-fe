@@ -34,7 +34,7 @@
 1. Clone this repos (DailyNews)
 
 ```sh
-git clone https://github.com/Digion-CORP/peworld-be/
+git clone https://github.com/Digion-CORP/peworld-fe/
 ```
 
 2. Go To Folder Repo
