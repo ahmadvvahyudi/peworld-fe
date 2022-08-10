@@ -1,34 +1,93 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TEACH_ME!  [![DailyNews](https://awesome.re/badge-flat2.svg)](https://)
+<h3 align="center">
 
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+<img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
+  Welcome to DailyNews!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+---
+<div align="center">
+# About :
+  
+---
+
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/29e58c63-9c4b-45a9-af9e-e827896feb5d/deploy-status)]()
 ## Getting Started
 
-First, run the development server:
+  
 
-```bash
-npm run dev
-# or
-yarn dev
+### Prerequisites
+
+ Make sure that Node JS is installed on the computer.
+
+* [Node Js](https://nodejs.org/)
+* [expressjs](https://expressjs.com/en/starter/installing.html)
+
+  
+
+### Installation
+
+  
+
+1. Clone this repos (DailyNews)
+
+```sh
+git clone https://github.com/teach-me-project/DailyNews_BE
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Go To Folder Repo
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+code .
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+3. Install Module
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```sh
+npm install
+```
+  
+4. Start website
 
-## Learn More
+```sh
+npm start / nodemon
+```
 
-To learn more about Next.js, take a look at the following resources:
+  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Related Project
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* [`Peworld_Frontend`](https://github.com/Digion-CORP/peworld-be/)
 
-## Deploy on Vercel
+* [`Peworld_Backend`](https://github.com/Digion-CORP/peworld-fe/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  
+# Features Application
+- [x] Auth.
+- [x] Register Pekerja-Perekrut.
+- [x] CRUD Skill,Portofolio,Profile,Experience.
+- [x] Notification.
+- [x] Hiring.
+## Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  
+<div  align="center">
+<img  width="350"  src="https://github.com/teach-me-project/DailyNews_BE/blob/main/WhatsApp%20Image%202022-07-26%20at%2010.45.26.jpeg">
+
+
+# Our Team - Teach_Me!
+ | profile | Name | Stack | Github | Linkedin |
+ | ------- | ---- | ------ | ------ | -------- |
+ | ![profile Muhammad Zainul Mubarok][img-Dzakia] |  Muhammad Zainul Mubarok | FrontEnd | [Zainul](https://github.com/zainulmbrk)|[Zainul](https://www.linkedin.com/in/zainulmbrk/) 
+ | ![profile Noviana Rahmawati][img-Sandi] | Noviana Rahmawati| FullStack| [Novia](https://github.com/Novianaa)|Novia](https://www.linkedin.com/in/noviana-rahmawati08/) 
+ | ![profile Sangkan Faiq][img-Vickri] | Sangkan Faiq | FrontEnd | [Faiq](hhttps://github.com/sangkanfaiq)|[Faiq](hhttps://www.linkedin.com/in/sangkanfaiq/) 
+ | ![profile Ahmad Wahyudi][img-Ade] | Ahmad Wahyudi | BackEnd | [Ahmad](https://github.com/ahmadvvahyudi)|[Ahmad](https://www.linkedin.com/in/ah-wahyudi/)
+ | ![profile Vickri Fahrurozi][img-Nahrowi] | Vickri Fahrurozi | FullStack | [Vickri](https://github.com/VickriFahrurozi)|[Vickri](https://www.linkedin.com/in/vickri-fahrurozi) 
+
+[img-Dzakia]: https://avatars.githubusercontent.com/u/105700671?v=4
+[img-Sandi]: https://avatars.githubusercontent.com/u/69453646?v=4
+[img-Vickri]: https://avatars.githubusercontent.com/u/40363306?v=4
+[img-Ade]: https://avatars.githubusercontent.com/u/95088271?v=4
+[img-Nahrowi]: https://avatars.githubusercontent.com/u/86625224?v=4
