@@ -20,7 +20,7 @@
 
 ### Prerequisites
 
- Make sure that Node JS is installed on the computer.
+ Make sure that Next JS is installed on the computer.
 
 * [Next Js](https://nodejs.org/)
 * [expressjs](https://expressjs.com/en/starter/installing.html)
