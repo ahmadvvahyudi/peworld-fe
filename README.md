@@ -22,7 +22,7 @@
 
  Make sure that Node JS is installed on the computer.
 
-* [Node Js](https://nodejs.org/)
+* [Next Js](https://nodejs.org/)
 * [expressjs](https://expressjs.com/en/starter/installing.html)
 
   
@@ -34,7 +34,7 @@
 1. Clone this repos (DailyNews)
 
 ```sh
-git clone https://github.com/teach-me-project/DailyNews_BE
+git clone https://github.com/Digion-CORP/peworld-be/
 ```
 
 2. Go To Folder Repo
@@ -46,22 +46,22 @@ code .
 3. Install Module
 
 ```sh
-npm install
+yarn install
 ```
   
 4. Start website
 
 ```sh
-npm start / nodemon
+yarn dev / nodemon
 ```
 
   
 
 ### Related Project
 
-* [`Peworld_Frontend`](https://github.com/Digion-CORP/peworld-be/)
+* [`Peworld_FrontEnd`](https://github.com/Digion-CORP/peworld-be/)
 
-* [`Peworld_Backend`](https://github.com/Digion-CORP/peworld-fe/)
+* [`Peworld_Backend`](https://github.com/Digion-CORP/peworld-be/)
 
   
 # Features Application
@@ -80,14 +80,14 @@ npm start / nodemon
 # Our Team - Teach_Me!
  | profile | Name | Stack | Github | Linkedin |
  | ------- | ---- | ------ | ------ | -------- |
- | ![profile Muhammad Zainul Mubarok][img-Dzakia] |  Muhammad Zainul Mubarok | FrontEnd | [Zainul](https://github.com/zainulmbrk)|[Zainul](https://www.linkedin.com/in/zainulmbrk/) 
- | ![profile Noviana Rahmawati][img-Sandi] | Noviana Rahmawati| FullStack| [Novia](https://github.com/Novianaa)|Novia](https://www.linkedin.com/in/noviana-rahmawati08/) 
- | ![profile Sangkan Faiq][img-Vickri] | Sangkan Faiq | FrontEnd | [Faiq](hhttps://github.com/sangkanfaiq)|[Faiq](hhttps://www.linkedin.com/in/sangkanfaiq/) 
- | ![profile Ahmad Wahyudi][img-Ade] | Ahmad Wahyudi | BackEnd | [Ahmad](https://github.com/ahmadvvahyudi)|[Ahmad](https://www.linkedin.com/in/ah-wahyudi/)
+ | ![profile Muhammad Zainul Mubarok][img-Zainul] |  Muhammad Zainul Mubarok | FrontEnd | [Zainul](https://github.com/zainulmbrk)|[Zainul](https://www.linkedin.com/in/zainulmbrk/) 
+ | ![profile Noviana Rahmawati][img-Novia] | Noviana Rahmawati| FullStack| [Novia](https://github.com/Novianaa)|[Novia](https://www.linkedin.com/in/noviana-rahmawati08/) 
+ | ![profile Sangkan Faiq][img-Faiq] | Sangkan Faiq | FrontEnd | [Faiq](hhttps://github.com/sangkanfaiq)|[Faiq](hhttps://www.linkedin.com/in/sangkanfaiq/) 
+ | ![profile Ahmad Wahyudi][img-Ahmad] | Ahmad Wahyudi | BackEnd | [Ahmad](https://github.com/ahmadvvahyudi)|[Ahmad](https://www.linkedin.com/in/ah-wahyudi/)
  | ![profile Vickri Fahrurozi][img-Vickri] | Vickri Fahrurozi | FullStack | [Vickri](https://github.com/VickriFahrurozi)|[Vickri](https://www.linkedin.com/in/vickri-fahrurozi) 
 
-[img-Dzakia]: https://avatars.githubusercontent.com/u/105700671?v=4
-[img-Sandi]: https://avatars.githubusercontent.com/u/69453646?v=4
-[img-Vickri]: https://avatars.githubusercontent.com/u/40363306?v=4
-[img-Ade]: https://avatars.githubusercontent.com/u/95088271?v=4
+[img-Zainul]: https://avatars.githubusercontent.com/u/105698027?v=4
+[img-Novia]: https://avatars.githubusercontent.com/u/86045160?v=4
+[img-Faiq]: https://avatars.githubusercontent.com/u/71695828?v=4
+[img-Ahmad]: https://avatars.githubusercontent.com/u/108715816?v=4
 [img-Vickri]: https://avatars.githubusercontent.com/u/40363306?v=4
