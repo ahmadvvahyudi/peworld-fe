@@ -31,7 +31,7 @@
 
   
 
-1. Clone this repos (DailyNews)
+1. Clone this repos (peworld)
 
 ```sh
 git clone https://github.com/Digion-CORP/peworld-fe/
@@ -77,7 +77,7 @@ yarn dev / nodemon
 <img  width="350"  src="https://github.com/teach-me-project/DailyNews_BE/blob/main/WhatsApp%20Image%202022-07-26%20at%2010.45.26.jpeg">
 
 
-# Our Team - Teach_Me!
+# Our Team - Digion-Corp!
  | profile | Name | Stack | Github | Linkedin |
  | ------- | ---- | ------ | ------ | -------- |
  | ![profile Muhammad Zainul Mubarok][img-Zainul] |  Muhammad Zainul Mubarok | FrontEnd | [Zainul](https://github.com/zainulmbrk)|[Zainul](https://www.linkedin.com/in/zainulmbrk/) 
